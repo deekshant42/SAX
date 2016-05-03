@@ -1,0 +1,7 @@
+name 'pass_ssh'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures pass_ssh'
+long_description 'Installs/Configures pass_ssh'
+version '0.1.0'

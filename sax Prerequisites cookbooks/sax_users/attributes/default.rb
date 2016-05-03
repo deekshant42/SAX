@@ -1,0 +1,5 @@
+default['sax_users']['user'] = 'sax'
+default['sax_users']['home'] = '/home/sax'
+default['sax_users']['shell'] = '/bin/bash'
+default['sax_users']['ulimit'] = '/etc/security/limits.conf'
+default['sax_users']['password'] = 'sax'

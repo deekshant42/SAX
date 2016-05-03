@@ -1,0 +1,2 @@
+sshpass -p <%= @password%> scp -r -o StrictHostKeyChecking=no <%= @sourcefile%> <%= @user%>@<%= @ip%>:<%= @destinationpath%>
+

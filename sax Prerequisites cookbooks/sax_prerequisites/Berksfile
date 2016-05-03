@@ -1,0 +1,12 @@
+source 'https://supermarket.chef.io'
+
+metadata
+
+cookbook 'hostfile' ,path: '/home/sax/chef-repo/cookbooks/hostfile'
+cookbook 'sax_os_packages' ,path: '/home/sax/chef-repo/cookbooks/sax_os_packages'
+cookbook 'firewall_disable' ,path: '/home/sax/chef-repo/cookbooks/firewall_disable'
+cookbook 'selinux_disable' ,path: '/home/sax/chef-repo/cookbooks/selinux_disable'
+cookbook 'default_requiretty' ,path: '/home/sax/chef-repo/cookbooks/default_requiretty'
+cookbook 'sax_users' ,path: '/home/sax/chef-repo/cookbooks/sax_users'
+cookbook 'install_java' ,path: '/home/sax/chef-repo/cookbooks/install_java'
+

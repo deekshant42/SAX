@@ -1,0 +1,7 @@
+name 'kafka_sax'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures kafka_sax'
+long_description 'Installs/Configures kafka_sax'
+version '0.1.0'

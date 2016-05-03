@@ -1,0 +1,12 @@
+DEPENDENCIES
+  install_java
+    path: .
+    metadata: true
+
+GRAPH
+  chef-sugar (3.3.0)
+  install_java (0.1.0)
+    chef-sugar (~> 3.3.0)
+    openssl (~> 4.4.0)
+  openssl (4.4.0)
+    chef-sugar (>= 3.1.1)
